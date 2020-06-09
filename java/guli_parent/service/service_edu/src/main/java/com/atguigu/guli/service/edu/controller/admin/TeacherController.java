@@ -15,6 +15,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @Api(tags = "讲师管理")
+@CrossOrigin    //允许跨域注解
 @RestController
 @RequestMapping("admin/edu/teacher")
 public class TeacherController {
