@@ -1,8 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7c70677-e2c1-4fdc-9524-85512ff58e31" name="Default Changelist" comment="">
+    <list default="true" id="cf663cd4-b7bf-4915-bef2-915db248c869" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/service/service_oss/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/guli/service/oss/ServiceOssApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/guli/service/oss/controller/admin/FileController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/guli/service/oss/service/FileService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/guli/service/oss/service/impl/FileServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/guli/service/oss/util/OssProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_oss/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/common_util/target/classes/com/atguigu/guli/common/base/result/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/common_util/target/classes/com/atguigu/guli/common/base/result/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/common_util/target/classes/com/atguigu/guli/common/base/util/ExceptionUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/common_util/target/classes/com/atguigu/guli/common/base/util/ExceptionUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/service_base/target/classes/com/atguigu/guli/service/base/config/Swagger2Config.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/service_base/target/classes/com/atguigu/guli/service/base/config/Swagger2Config.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/service_base/target/classes/com/atguigu/guli/service/base/model/BaseEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/service_base/target/classes/com/atguigu/guli/service/base/model/BaseEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guli_parent.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/META-INF/service_edu.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/controller/admin/TeacherController.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/controller/admin/TeacherController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/entity/Chapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/entity/Chapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/entity/Comment.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/entity/Comment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/entity/Course.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/entity/Course.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/entity/CourseCollect.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/entity/CourseCollect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/entity/CourseDescription.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/entity/CourseDescription.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/entity/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/entity/Subject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/entity/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/entity/Teacher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/entity/Video.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/entity/Video.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/entity/vo/TeacherQueryVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/entity/vo/TeacherQueryVo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/service/impl/TeacherServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/service/impl/TeacherServiceImpl.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,12 +41,10 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeInsightWorkspaceSettings">
-    <option name="optimizeImportsOnTheFly" value="true" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -26,45 +55,46 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="E:/maven/apache-maven-3.6.2" />
-        <option name="userSettingsFile" value="E:\maven\apache-maven-3.6.2\conf\settings.xml" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="11" />
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1d22tATmyMAhcgYj9uTddJ62IkT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1d5PMqOtjjUAmRwujIoCiNzpHR8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/common/common_util/src/main/java/com/atguigu/guli/common/base/util" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\IdeaProjects\springboot-project\java\guli_parent\common\common_util\src\main\java\com\atguigu\guli\common\base\util" />
-      <recent name="E:\IdeaProjects\springboot-project\java\guli_parent\common\common_util\src\main\java\com\atguigu\guli\common\base\result" />
-    </key>
+    <property name="settings.editor.selected.configurable" value="spring.boot" />
   </component>
   <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
     <option name="ruleStates">
       <list>
         <RuleState>
@@ -77,51 +107,63 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.ServiceEduApplication">
-    <configuration name="CodeGenerator.genCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ServiceEduApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="service_edu" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu.guli.service.edu.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.atguigu.guli.service.edu" />
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.guli.service.edu.CodeGenerator" />
-      <option name="METHOD_NAME" value="genCode" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.guli.service.edu.ServiceEduApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ServiceEduApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="service_edu" />
+    <configuration name="ServiceOssApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service_oss" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.guli.service.edu.*" />
+          <option name="PATTERN" value="com.atguigu.guli.service.oss.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.guli.service.edu.ServiceEduApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.guli.service.oss.ServiceOssApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.ServiceEduApplication" />
-        <item itemvalue="JUnit.CodeGenerator.genCode" />
+        <item itemvalue="Spring Boot.ServiceOssApplication" />
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <option name="contentProportion" value="0.18073593" />
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@3c0d535" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@3c0d535" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@7e81dde0" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\78525\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a7c70677-e2c1-4fdc-9524-85512ff58e31" name="Default Changelist" comment="" />
-      <created>1591609079471</created>
+      <changelist id="cf663cd4-b7bf-4915-bef2-915db248c869" name="Default Changelist" comment="" />
+      <created>1591711935649</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+<<<<<<< HEAD
       <updated>1591609079471</updated>
       <workItem from="1591609082448" duration="683000" />
       <workItem from="1591609996721" duration="9900000" />
@@ -129,6 +171,10 @@
       <workItem from="1591681715333" duration="3452000" />
       <workItem from="1591685193017" duration="4335000" />
       <workItem from="1591690347924" duration="5716000" />
+=======
+      <updated>1591711935649</updated>
+      <workItem from="1591711939602" duration="6319000" />
+>>>>>>> 97236130ab981c02da084011cd012ba4a35f4f9b
     </task>
     <servers />
   </component>
