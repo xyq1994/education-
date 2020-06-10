@@ -12,4 +12,6 @@ public interface FileService {
      * @return 返回文件在oss上面的地址
      */
     String upload(InputStream inputStream, String module, String originalFilename);
+
+    void removeFile(String url);
 }

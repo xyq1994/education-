@@ -1,0 +1,75 @@
+2020-06-10 18:24:09,294 INFO o.a.j.u.JMeterUtils: Setting Locale to zh_CN
+2020-06-10 18:24:09,320 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2020-06-10 18:24:09,322 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2020-06-10 18:24:09,329 INFO o.a.j.JMeter: Copyright (c) 1998-2019 The Apache Software Foundation
+2020-06-10 18:24:09,329 INFO o.a.j.JMeter: Version 5.2.1
+2020-06-10 18:24:09,329 INFO o.a.j.JMeter: java.version=1.8.0_91
+2020-06-10 18:24:09,329 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2020-06-10 18:24:09,329 INFO o.a.j.JMeter: os.name=Windows 10
+2020-06-10 18:24:09,329 INFO o.a.j.JMeter: os.arch=amd64
+2020-06-10 18:24:09,329 INFO o.a.j.JMeter: os.version=10.0
+2020-06-10 18:24:09,329 INFO o.a.j.JMeter: file.encoding=GBK
+2020-06-10 18:24:09,330 INFO o.a.j.JMeter: java.awt.headless=null
+2020-06-10 18:24:09,330 INFO o.a.j.JMeter: Max memory     =1073741824
+2020-06-10 18:24:09,330 INFO o.a.j.JMeter: Available Processors =6
+2020-06-10 18:24:09,333 INFO o.a.j.JMeter: Default Locale=English (EN)
+2020-06-10 18:24:09,333 INFO o.a.j.JMeter: JMeter  Locale=Chinese (China)
+2020-06-10 18:24:09,334 INFO o.a.j.JMeter: JMeterHome=C:\Users\golden-monkey\Desktop\尚硅谷-全栈在线教育项目-谷粒学院【Vue.js+Spring Cloud Alibaba】\day07-注册中心和服务容错\资料\apache-jmeter-5.2.1
+2020-06-10 18:24:09,334 INFO o.a.j.JMeter: user.dir  =C:\Users\golden-monkey\Desktop\尚硅谷-全栈在线教育项目-谷粒学院【Vue.js+Spring Cloud Alibaba】\day07-注册中心和服务容错\资料\apache-jmeter-5.2.1\bin
+2020-06-10 18:24:09,334 INFO o.a.j.JMeter: PWD       =C:\Users\golden-monkey\Desktop\尚硅谷-全栈在线教育项目-谷粒学院【Vue.js+Spring Cloud Alibaba】\day07-注册中心和服务容错\资料\apache-jmeter-5.2.1\bin
+2020-06-10 18:24:09,342 INFO o.a.j.JMeter: IP: 192.168.56.1 Name: DESKTOP-S080TJS FullName: 192.168.56.1
+2020-06-10 18:24:09,534 INFO o.a.j.g.a.LookAndFeelCommand: Installing Darcula LAF
+2020-06-10 18:24:09,556 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: com.bulenkov.darcula.DarculaLaf [Darcula]
+2020-06-10 18:24:09,556 INFO o.a.j.JMeter: Setting LAF to: com.bulenkov.darcula.DarculaLaf
+2020-06-10 18:24:09,638 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2020-06-10 18:24:12,331 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-06-10 18:24:12,333 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-06-10 18:24:12,333 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-06-10 18:24:12,334 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-06-10 18:24:12,334 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2020-06-10 18:24:12,334 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2020-06-10 18:24:12,839 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2020-06-10 18:24:12,841 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file C:\Users\golden-monkey\Desktop\尚硅谷-全栈在线教育项目-谷粒学院【Vue.js+Spring Cloud Alibaba】\day07-注册中心和服务容错\资料\apache-jmeter-5.2.1\bin\proxyserver.jks
+2020-06-10 18:24:13,048 INFO o.a.j.s.FileServer: Default base='C:\Users\golden-monkey\Desktop\尚硅谷-全栈在线教育项目-谷粒学院【Vue.js+Spring Cloud Alibaba】\day07-注册中心和服务容错\资料\apache-jmeter-5.2.1\bin'
+2020-06-10 18:24:14,516 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2020-06-10 18:24:14,516 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2020-06-10 18:24:14,516 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2020-06-10 18:24:14,516 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2020-06-10 18:27:13,764 INFO o.a.j.s.FileServer: Set new base='C:\Users\golden-monkey\Desktop\尚硅谷-全栈在线教育项目-谷粒学院【Vue.js+Spring Cloud Alibaba】\day07-注册中心和服务容错\资料\apache-jmeter-5.2.1\bin'
+2020-06-10 18:27:13,996 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2020-06-10 18:27:14,005 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2020-06-10 18:27:14,008 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2020-06-10 18:27:14,064 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2020-06-10 18:27:14,066 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2020-06-10 18:27:14,066 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2020-06-10 18:27:14,071 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2020-06-10 18:27:14,071 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2020-06-10 18:27:14,477 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2020-06-10 18:27:14,766 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : 线程组
+2020-06-10 18:27:14,766 INFO o.a.j.e.StandardJMeterEngine: Starting 20 threads for group 线程组.
+2020-06-10 18:27:14,766 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2020-06-10 18:27:14,791 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=20 ramp-up=1 delayedStart=false
+2020-06-10 18:27:14,841 INFO o.a.j.t.JMeterThread: Thread started: 线程组 1-1
+2020-06-10 18:27:14,849 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2020-06-10 18:27:14,849 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2020-06-10 18:27:14,864 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = DESKTOP-S080TJS
+2020-06-10 18:27:14,871 INFO o.a.j.t.JMeterThread: Thread started: 线程组 1-2
+2020-06-10 18:27:14,876 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2020-06-10 18:27:14,920 INFO o.a.j.t.JMeterThread: Thread started: 线程组 1-3
+2020-06-10 18:27:14,968 INFO o.a.j.t.JMeterThread: Thread started: 线程组 1-4
+2020-06-10 18:27:15,017 INFO o.a.j.t.JMeterThread: Thread started: 线程组 1-5
+2020-06-10 18:27:15,068 INFO o.a.j.t.JMeterThread: Thread started: 线程组 1-6
+2020-06-10 18:27:15,118 INFO o.a.j.t.JMeterThread: Thread started: 线程组 1-7
+2020-06-10 18:27:15,168 INFO o.a.j.t.JMeterThread: Thread started: 线程组 1-8
+2020-06-10 18:27:15,196 INFO o.a.j.t.JMeterThread: Thread started: 线程组 1-9
+2020-06-10 18:27:15,246 INFO o.a.j.t.JMeterThread: Thread started: 线程组 1-10
+2020-06-10 18:27:15,299 INFO o.a.j.t.JMeterThread: Thread started: 线程组 1-11
+2020-06-10 18:27:15,346 INFO o.a.j.t.JMeterThread: Thread started: 线程组 1-12
+2020-06-10 18:27:15,395 INFO o.a.j.t.JMeterThread: Thread started: 线程组 1-13
+2020-06-10 18:27:15,456 INFO o.a.j.t.JMeterThread: Thread started: 线程组 1-14
+2020-06-10 18:27:15,494 INFO o.a.j.t.JMeterThread: Thread started: 线程组 1-15
+2020-06-10 18:27:15,544 INFO o.a.j.t.JMeterThread: Thread started: 线程组 1-16
+2020-06-10 18:27:15,594 INFO o.a.j.t.JMeterThread: Thread started: 线程组 1-17
+2020-06-10 18:27:15,644 INFO o.a.j.t.JMeterThread: Thread started: 线程组 1-18
+2020-06-10 18:27:15,694 INFO o.a.j.t.JMeterThread: Thread started: 线程组 1-19
+2020-06-10 18:27:15,744 INFO o.a.j.t.JMeterThread: Thread started: 线程组 1-20

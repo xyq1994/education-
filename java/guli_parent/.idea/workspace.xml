@@ -2,27 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf663cd4-b7bf-4915-bef2-915db248c869" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/service/service_oss/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/guli/service/oss/ServiceOssApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/guli/service/oss/controller/admin/FileController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/guli/service/oss/service/FileService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/guli/service/oss/service/impl/FileServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/guli/service/oss/util/OssProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service_oss/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/service_base/src/main/java/com/atguigu/guli/service/base/exception/CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/guli/service/edu/feign/OssFileService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/common/common_util/target/classes/com/atguigu/guli/common/base/result/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/common_util/target/classes/com/atguigu/guli/common/base/result/R.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/common/common_util/target/classes/com/atguigu/guli/common/base/util/ExceptionUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/common_util/target/classes/com/atguigu/guli/common/base/util/ExceptionUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/service_base/src/main/java/com/atguigu/guli/service/base/handler/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/service_base/src/main/java/com/atguigu/guli/service/base/handler/GlobalExceptionHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/common/service_base/target/classes/com/atguigu/guli/service/base/config/Swagger2Config.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/service_base/target/classes/com/atguigu/guli/service/base/config/Swagger2Config.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/service_base/target/classes/com/atguigu/guli/service/base/handler/GlobalExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/service_base/target/classes/com/atguigu/guli/service/base/handler/GlobalExceptionHandler.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/common/service_base/target/classes/com/atguigu/guli/service/base/model/BaseEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/service_base/target/classes/com/atguigu/guli/service/base/model/BaseEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guli_parent.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/guli/service/edu/ServiceEduApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/guli/service/edu/ServiceEduApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/guli/service/edu/controller/admin/TeacherController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/guli/service/edu/controller/admin/TeacherController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/guli/service/edu/service/TeacherService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/guli/service/edu/service/TeacherService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/guli/service/edu/service/impl/TeacherServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/java/com/atguigu/guli/service/edu/service/impl/TeacherServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/META-INF/service_edu.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/src/main/resources/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/src/main/resources/logback-spring.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/ServiceEduApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/ServiceEduApplication.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/controller/admin/TeacherController.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/controller/admin/TeacherController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/entity/Chapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/entity/Chapter.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/entity/Comment.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/entity/Comment.class" afterDir="false" />
@@ -33,7 +32,13 @@
       <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/entity/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/entity/Teacher.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/entity/Video.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/entity/Video.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/entity/vo/TeacherQueryVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/entity/vo/TeacherQueryVo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/service/TeacherService.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/service/TeacherService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/service/impl/TeacherServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_edu/target/classes/com/atguigu/guli/service/edu/service/impl/TeacherServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/guli/service/oss/ServiceOssApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/guli/service/oss/ServiceOssApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/guli/service/oss/controller/admin/FileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/guli/service/oss/controller/admin/FileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/guli/service/oss/service/FileService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/guli/service/oss/service/FileService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/guli/service/oss/service/impl/FileServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_oss/src/main/java/com/atguigu/guli/service/oss/service/impl/FileServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_oss/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service_oss/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,11 +46,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -72,6 +80,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -87,7 +96,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="spring.boot" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
@@ -106,7 +115,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ServiceEduApplication">
+  <component name="RunManager" selected="Spring Boot.ServiceOssApplication-8131">
     <configuration name="ServiceEduApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="service_edu" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.guli.service.edu.ServiceEduApplication" />
@@ -114,7 +123,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ServiceOssApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="ServiceOssApplication-8130" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
       <module name="service_oss" />
       <extension name="coverage">
         <pattern>
@@ -123,30 +132,56 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.guli.service.oss.ServiceOssApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ServiceOssApplication-8131" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_oss" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.guli.service.oss.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.guli.service.oss.ServiceOssApplication" />
+      <option name="VM_PARAMETERS" value="-DServer.port=8131" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ServiceEduApplication" />
+      <item itemvalue="Spring Boot.ServiceOssApplication-8131" />
+      <item itemvalue="Spring Boot.ServiceOssApplication-8130" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.ServiceOssApplication" />
+        <item itemvalue="Spring Boot.ServiceOssApplication-8130" />
       </list>
     </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="allServicesViewState">
       <serviceView>
-        <option name="contentProportion" value="0.18073593" />
+        <option name="contentProportion" value="0.17099567" />
         <treeState>
           <expand>
             <path>
               <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@3c0d535" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@b5bbd672" type="7427dc5b:ServiceModel$ServiceGroupNode" />
             </path>
             <path>
               <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@3c0d535" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@7e81dde0" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@b5bbd672" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@89c4a3d6" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@b5bbd672" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@a2724993" type="7427dc5b:ServiceModel$ServiceGroupNode" />
             </path>
           </expand>
           <select />
@@ -163,18 +198,16 @@
       <created>1591711935649</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-<<<<<<< HEAD
-      <updated>1591609079471</updated>
+      <updated>1591711935649</updated>
       <workItem from="1591609082448" duration="683000" />
       <workItem from="1591609996721" duration="9900000" />
       <workItem from="1591681411041" duration="262000" />
       <workItem from="1591681715333" duration="3452000" />
       <workItem from="1591685193017" duration="4335000" />
       <workItem from="1591690347924" duration="5716000" />
-=======
-      <updated>1591711935649</updated>
       <workItem from="1591711939602" duration="6319000" />
->>>>>>> 97236130ab981c02da084011cd012ba4a35f4f9b
+      <workItem from="1591774830556" duration="46000" />
+      <workItem from="1591774904630" duration="8119000" />
     </task>
     <servers />
   </component>
@@ -186,7 +219,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
